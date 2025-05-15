@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Vam 👋</h1>
-<h3 align="center">An aspiring full-stack developer building projects, often with my team at Sand Stack.</h3>
+<h3 align="center">I'm probably tinkering with something new.</h3>
